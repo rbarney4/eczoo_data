@@ -3,7 +3,7 @@
 ##       https://github.com/errorcorrectionzoo       ##
 #######################################################
 
-code_id: spacetime
+code_id: spacetime_block
 physical: matrices
 logical: points
 
@@ -41,5 +41,5 @@ realizations: 'Used in high data rate wireless communication.'
 
 relations:
   parents:
-    - code_id: space-time
-      detail: 'Space-time codes also use spatial and temporal diversity, but do not necessarily use blocks as codewords.'
+    - code_id: spacetime
+      detail: 'Spacetime codes also use spatial and temporal diversity, but do not necessarily use blocks as codewords.'
