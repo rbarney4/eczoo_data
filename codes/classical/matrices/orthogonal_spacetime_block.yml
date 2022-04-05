@@ -7,7 +7,7 @@ code_id: orth_spacetime
 physical: matrices
 logical: points
 
-name: 'Orthogonal Spacetime Block Code'
+name: 'Orthogonal Spacetime Block Code (OSTBC)'
 short_name: 'OSTBC'
 introduced: '\cite{doi:10.1109/49.730453}'
 
